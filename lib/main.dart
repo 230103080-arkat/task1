@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Splash Screen
+
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
 
@@ -139,7 +139,7 @@ class SplashScreen extends StatelessWidget {
   }
 }
 
-// Archive Screen (Job List)
+
 class ArchiveScreen extends StatelessWidget {
   const ArchiveScreen({super.key});
 
@@ -384,7 +384,7 @@ class ArchiveScreen extends StatelessWidget {
   }
 }
 
-// Job Details Screen
+
 class JobDetailsScreen extends StatelessWidget {
   final String title;
   final String company;
